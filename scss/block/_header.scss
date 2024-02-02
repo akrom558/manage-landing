@@ -1,0 +1,36 @@
+.header_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+}
+
+.header_list {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.header_link {
+    color: #242D52;
+    font-family: "Be Vietnam";
+    font-size: 13px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.header_btn {
+    color: #FCF6F5;
+    font-family: "Be Vietnam";
+    font-size: 13px;
+    font-weight: 700;
+    line-height: normal;
+    width: 137px;
+    padding: 12px 30px;
+    background-color: #F3603C;
+    border-radius: 20px;
+    border: none;
+}
+.header{
+    padding-bottom: 120px;
+}

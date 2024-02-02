@@ -1,0 +1,29 @@
+.team_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.team_title {
+    width: 445px;
+    font-family: "Be Vietnam";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: -0.714px;
+    padding: 62px;
+}
+.team_btn{
+    font-family: "Be Vietnam";
+font-size: 13px;
+font-weight: 700;
+background-color:#fff;
+width: 137px;
+padding: 12px 30px;
+border-radius:20px;
+border:none;
+color:#F3603C;
+}
+.team{
+    background-color:#F3603C;
+}
